@@ -1,6 +1,6 @@
 # freshers-contest
 
-This repository includes the Python solutions for all problems which were part of the IIIT Kottayam Coder's Club [Freshers Contest 2024](https://codeforces.com/group/ziaSLlB1Pm/contest/553465) on 27th September 2024.<br>
+This repository includes the unofficial Python solutions for all problems which were part of the IIIT Kottayam Coder's Club [Freshers Contest 2024](https://codeforces.com/group/ziaSLlB1Pm/contest/553465) on 27th September 2024.<br>
 <sup>All these solutions have passed all test cases and have been accepted.</sup>
 
 ## Problems
